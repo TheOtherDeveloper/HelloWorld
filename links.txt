@@ -1,0 +1,25 @@
+getting started with rails:
+http://guides.rubyonrails.org/getting_started.html
+
+
+tutorial:
+http://www.asp.net/mvc/tutorials/getting-started-with-ef-using-mvc/creating-an-entity-framework-data-model-for-an-asp-net-mvc-application
+
+
+check it up: coursera 
+https://www.coursera.org/courses?orderby=upcoming&lngs=en&cats=cs-ai,cs-programming,ee
+
+Ruby on rails
+http://railsforzombies.org
+
+database:
+http://msdn.microsoft.com/en-us/data/jj193542
+
+BDD: 
+http://blog.codeship.io/2013/04/30/BDD-With-Cucumber.html
+
+try Ruby
+http://tryruby.org/levels/1/challenges/0
+
+http://opensource.about.com/od/basics/tp/5-Ways-To-Make-Money-With-Open-Source-Software.htm
+http://www.pcworld.com/article/209891/10_reasons_open_source_is_good_for_business.html
